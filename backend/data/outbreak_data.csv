@@ -1,0 +1,21 @@
+id,disease,country,region,latitude,longitude,cases,deaths,date,severity
+1,Dengue,Brasil,São Paulo,-23.5505,-46.6333,450,12,2024-01-15,high
+2,Dengue,Brasil,Rio de Janeiro,-22.9068,-43.1729,320,8,2024-01-18,high
+3,Malaria,Nigeria,Lagos,6.5244,3.3792,580,45,2024-01-10,critical
+4,Malaria,Nigeria,Abuja,9.0765,7.3986,290,22,2024-01-12,high
+5,Dengue,India,Mumbai,19.0760,72.8777,670,15,2024-01-20,high
+6,Dengue,India,Delhi,28.7041,77.1025,520,11,2024-01-22,high
+7,Cholera,Yemen,Sanaa,15.5527,48.5164,890,67,2024-01-08,critical
+8,Cholera,Haiti,Port-au-Prince,18.5944,-72.3074,430,34,2024-01-14,critical
+9,Malaria,Congo,Kinshasa,-4.3276,15.3136,720,58,2024-01-11,critical
+10,Dengue,México,Veracruz,19.1738,-96.1342,380,9,2024-01-16,medium
+11,Dengue,Colombia,Cali,3.4516,-76.5320,290,7,2024-01-19,medium
+12,Measles,Philippines,Manila,14.5995,120.9842,560,18,2024-01-13,high
+13,Typhoid,Pakistan,Karachi,24.8607,67.0011,410,15,2024-01-17,medium
+14,Dengue,Thailand,Bangkok,13.7563,100.5018,630,14,2024-01-21,high
+15,Malaria,Kenya,Nairobi,-1.2864,36.8172,480,38,2024-01-09,high
+16,Cholera,Bangladesh,Dhaka,23.8103,90.4125,520,42,2024-01-12,critical
+17,Dengue,Vietnam,Ho Chi Minh,10.8231,106.6297,440,10,2024-01-18,high
+18,Yellow Fever,Uganda,Kampala,0.3476,32.5825,180,22,2024-01-15,high
+19,Dengue,Argentina,Buenos Aires,-34.6037,-58.3816,210,5,2024-01-20,medium
+20,Malaria,Tanzania,Dar es Salaam,-6.7924,39.2083,550,44,2024-01-11,high
